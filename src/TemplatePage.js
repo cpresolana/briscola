@@ -28,14 +28,15 @@ class TemplatePage extends Component {
           </div>
         </Link>
         {this.props.content}
-        <GithubCorner
-          href={'https://github.com/aflorj/briscola'}
+        {/* TODO github corner */}
+        {/* <GithubCorner
+          href={'https://github.com/cpresolana/briscola'}
           target={'_blank'}
           bannerColor="#F0F0F0"
           octoColor="#696969"
           size={70}
           direction="left"
-        />
+        /> */}
         <div id="top-wrapper">
           <button
             className="lang-button"
