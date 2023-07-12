@@ -16,10 +16,10 @@ More information about the card game and the rules of the game is available [her
 - [boardgame.io](https://boardgame.io/)
 
 ## Development
-- `$ git clone https://github.com/aflorj/briscola.git`
+- `$ git clone https://github.com/cpresolana/briscola.git`
 - `$ cd briscola`
 - `$ npm install`
-- Set `APP_PRODUCTION=false` in `src/config.js`
+- Set environment in `src/config.js`
 - `$ npm start` to run the server
 - `$ npm run client` to run the front-end
 
