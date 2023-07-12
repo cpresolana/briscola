@@ -25,4 +25,4 @@ More information about the card game and the rules of the game is available [her
 
 ## Credits
 
-The 'Briscola' logo was designed by Tina Rebula.
+The 'Briscola' logo was designed by Tina Rebula. 
