@@ -4,7 +4,8 @@
 
 Briscola is a trick-taking card game. The game is popular in Italy but also played in the coastal regions of Slovenia and Croatia under the name Briškola. Different variants of the game exist, allowing for anywhere from two to six players.
 
-This application covers the two-player variant of the game. You can [play it here](https://briscola-cyan.vercel.app/).
+This application covers the two-player variant of the game. You can [play it here](https://briscola-cyan.vercel.app/)
+NB: the server goes idle after a while, if the service doesn't respond let him boot up after the first request and try again after one minute.
 
 ## Game Rules
 
